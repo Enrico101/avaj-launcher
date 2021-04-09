@@ -62,5 +62,5 @@ Helicopter#H4(8): It looks like smooth sailing from here.
 == Simulation #2 ==
 ........
 ```
-##Author
+## Author
 Enrico Radcliffe - Enrico101
